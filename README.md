@@ -7,7 +7,7 @@ git init
 ```
 * Clone the app:
 ```commandline
-git clone https://github.com/Cerne13/===!!!INSERT REPO NAME HERE!!!===
+https://github.com/Cerne13/paraphrasing-test-task.git
 ```
 
 * Move to the created folder that contains the app
