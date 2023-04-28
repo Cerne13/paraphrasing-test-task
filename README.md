@@ -98,4 +98,4 @@ optionally you can add the limit query parameter at the end of the address, afte
 &limit=20
 ```
 <br/>
-In both cases a result you'll get a JSON object with rephrases of the syntactic tree you've provided.
+In both cases a result you'll get will be a JSON object with rephrases of the syntactic tree you've provided.
